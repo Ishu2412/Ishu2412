@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Devs+👋+👋;Welcome+to+my+Github;I+am+Shrayash+Shukla;Thank+you+for+visiting+my+github+....)](https://git.io/typing-svg)
 - 👋 Hi, I’m Shrayash Shukla
 - 👀 I’m interested in software development,web development,web3,ai-ml.......
 - 🌱 I’m currently learning java and web D
